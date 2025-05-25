@@ -59,8 +59,8 @@
 
 ## 🤝 Credits
 
-Developed by: *[Your Name]*  
-For: Smart City / College Project / Hackathon
+Developed by: *GAYATHIRI_B*  
+For: Hackathon
 
 ---
 
